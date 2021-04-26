@@ -22,7 +22,7 @@
 
 # Dale click al nombre para descargar la skin
 
-# [Semiramis](https://drive.google.com/file/d/1yIf1bt8r45e4lGbzimL_SNnxCA0LZB-9/view
+# [Semiramis](https://drive.google.com/file/d/1yIf1bt8r45e4lGbzimL_SNnxCA0LZB-9/view)
 ![]( https://i.imgur.com/6voMq2i.jpg )
 ![]( https://i.imgur.com/oeDN0wP.jpg )
 ![]( https://i.imgur.com/VwqeJgd.jpg )
