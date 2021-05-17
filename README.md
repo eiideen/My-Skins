@@ -1,8 +1,17 @@
+# [-       《 E 》    « Radhe V1.0 - LITE »       -](https://www.mediafire.com/file/27oa8l5511mxsud/-_%25E3%2580%258A_E_%25E3%2580%258B_%25C2%25AB_Radhe_V1.0_-_LITE_%25C2%25BB_-.osk/file)
+![]( https://i.imgur.com/r643eJo.png )
+![]( https://i.imgur.com/FYofVM4.png )
+![]( https://i.imgur.com/Y8h6vQg.png )
+![]( https://i.imgur.com/S6N7DmU.png )
+# [-       《 E 》    « V1.1 »       -](https://www.mediafire.com/file/wvvlnm55kw4b16d/-_%25E3%2580%258A_E_%25E3%2580%258B_%25C2%25AB_Radhe_V1.1_-_LITE_%25C2%25BB_-.osk/file)
+![]( https://i.imgur.com/c0xRwWv.png )
+
 # [-       《 E 》    « Houshou Marine »       -](https://drive.google.com/file/d/1R4fXYPoXqWWECKzfl5Pct8PUcO2rUyBv/view)
 ![]( https://i.imgur.com/8yzrUTa.png )
 ![]( https://i.imgur.com/J5MVimI.png )
 ![]( https://i.imgur.com/gEPCAGE.png )
 ![]( https://i.imgur.com/arVMNHt.png )
+
 # [-       《 E 》    « Semiramis »       -](https://drive.google.com/file/d/1yIf1bt8r45e4lGbzimL_SNnxCA0LZB-9/view)
 ![]( https://i.imgur.com/lzFUnCx.jpg )
 ![]( https://i.imgur.com/6voMq2i.jpg )
