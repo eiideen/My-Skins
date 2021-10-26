@@ -9,12 +9,6 @@
 ![]( https://i.imgur.com/FYofVM4.png )
 ![]( https://i.imgur.com/Y8h6vQg.png )
 ![]( https://i.imgur.com/S6N7DmU.png )
-# [-          《 E 》  « TGS-SPORTS »    -](https://www.mediafire.com/file/skek7p69ls1c5it/-_%25E3%2580%258A_E_%25E3%2580%258B__%25C2%25AB_TGS-SPORTS_%25C2%25BB_-.osk/file)
-![]( https://i.imgur.com/XswtSJN.png )
-![]( https://i.imgur.com/YWquhte.png )
-![]( https://i.imgur.com/qZnl3FG.png )
-![]( https://i.imgur.com/mIOFjuy.png )
-
 # [-       《 E 》    « Houshou Marine »       -](https://www.mediafire.com/file/wq3r9zm91rgiwc2/-_%2523_EiideN_%255BHoushou_Marine%255D__V2_%2523_-.osk/file)
 ![]( https://i.imgur.com/8yzrUTa.png )
 ![]( https://i.imgur.com/J5MVimI.png )
