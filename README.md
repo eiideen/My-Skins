@@ -14,7 +14,7 @@
 ![]( https://i.imgur.com/r643eJo.png )
 ![]( https://i.imgur.com/FYofVM4.png )
 ![]( https://i.imgur.com/Y8h6vQg.png )
-![]( https://i.imgur.com/S6N7DmU.png )
+![]( https://i.imgur.com/jNIJzc2.png )
 # [-       《 E 》    « Semiramis »       -](https://www.mediafire.com/file/rrh2a2zdpvew457/-_%2523_EiideN_%25E3%2580%258ESemiramis%25E3%2580%258F__%2523_-.osk/file)
 ![]( https://i.imgur.com/lzFUnCx.jpg )
 ![]( https://i.imgur.com/6voMq2i.jpg )
