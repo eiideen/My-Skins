@@ -1,22 +1,34 @@
-# [-       《 E 》    « MarineSummer  »       -](https://www.mediafire.com/file/v5ppwocx10es9g6/-_%25E3%2580%258A_E_%25E3%2580%258B_%25C2%25AB_Marine_Summer_%25C2%25BB_-.osk/file)
-![]( https://i.imgur.com/vCAeqWD.png)
-![]( https://i.imgur.com/FsJ5xRL.png )
-![]( https://i.imgur.com/MVaUSRT.png )
-![]( https://i.imgur.com/xK38dmr.png )
-![]( https://i.imgur.com/0I05f1x.png )
-# [-       《 E 》    « ButterflyNino »       -](https://www.mediafire.com/file/8y2xyndqedb4a4c/-_%25E3%2580%258A_E_%25E3%2580%258B__%25C2%25AB_ButterflyNino_%25C2%25BB_-.osk/file)
-![]( https://i.imgur.com/4NQemaH.png )
-![]( https://i.imgur.com/nanq9lE.png )
-![]( https://i.imgur.com/d9lhWCY.png )
-![]( https://i.imgur.com/WccpqNh.png )
-![]( https://i.imgur.com/aDvlpC4.png )
-# [-       《 E 》    « Radhe V1.0 - LITE »       -](https://www.mediafire.com/file/27oa8l5511mxsud/-_%25E3%2580%258A_E_%25E3%2580%258B_%25C2%25AB_Radhe_V1.0_-_LITE_%25C2%25BB_-.osk/file)
-![]( https://i.imgur.com/r643eJo.png )
-![]( https://i.imgur.com/FYofVM4.png )
-![]( https://i.imgur.com/Y8h6vQg.png )
-![]( https://i.imgur.com/jNIJzc2.png )
-# [-       《 E 》    « Semiramis »       -](https://www.mediafire.com/file/rrh2a2zdpvew457/-_%2523_EiideN_%25E3%2580%258ESemiramis%25E3%2580%258F__%2523_-.osk/file)
-![]( https://i.imgur.com/lzFUnCx.jpg )
-![]( https://i.imgur.com/6voMq2i.jpg )
-![]( https://i.imgur.com/kC6aWy4.jpg )
-![]( https://i.imgur.com/feDw2Ru.jpg )
+## 《 Novu 》  « ButterflyNino »
+Credit: [Novu](https://osu.ppy.sh/users/17561095)
+
+![]( https://i.imgur.com/SZE2RVy.png )
+
+### Screenshots (click to expand)
+<a href="https://youtu.be/YZAfXbyhOYI" target="_blank">
+ Video preview
+</a>
+
+<details>
+<summary>ButterflyNino Menu</summary>
+<img src="https://i.imgur.com/4NQemaH.png" title="Menu Background">
+<img src="https://i.imgur.com/nanq9lE.png" title="Song Select">
+<img src="https://i.imgur.com/sCiCMO8.png" title="Select Modes">
+<img src="https://i.imgur.com/d9lhWCY.png" title="Mod Icons">
+<img src="https://i.imgur.com/N5lKWXl.png" title="Gameplay circles">
+<img src="https://i.imgur.com/WccpqNh.png" title="Gameplay circles">
+<img src="https://i.imgur.com/fitdLdF.png" title="Screen Pause">
+<img src="https://i.imgur.com/bfjLbo3.png" title="Screen Fail"
+<img src="https://i.imgur.com/f2wYR1Z.png" title="Screen Skip">
+<img src="https://i.imgur.com/XqZahKx.png" title="Screen Pass">
+<img src="https://i.imgur.com/tq63asq.png" title="Screen Fail">
+<img src="https://i.imgur.com/aDvlpC4.png" title="Ranking Panel">
+<img src="https://i.imgur.com/f90Z9f9.png" title="Ranking Panel">
+</details>
+
+#### Download
+Source|Link|
+|---|---|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+
+___
+
