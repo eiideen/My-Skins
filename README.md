@@ -58,7 +58,70 @@ Source|Link|
 
 ___
 
+## - 『 Bladeskie 』 -
+
+
+<p align="center"><img src="https://i.imgur.com/U8eHrq4.png" height="480"></p>
+
+<a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
+
+<details>
+<summary>Screenshots (click to expand)</summary>
+<img src="https://i.imgur.com/T0Im8a4.png" title="Menu Background">
+<img src="https://i.imgur.com/irhzJLX.png" title="Song Select">
+<img src="https://i.imgur.com/elfxWT5.png" title="Select Modes">
+<img src="https://i.imgur.com/XlQ9QEn.png" title="Mod Icons">
+<img src="https://i.imgur.com/fPtlnoP.png" title="Gameplay circles">
+<img src="https://i.imgur.com/w6BWQTV.png" title="Gameplay circles">
+<img src="https://i.imgur.com/iJuA0TA.png" title="Screen Pause">
+<img src="https://i.imgur.com/wSFyK3P.png" title="Screen Fail">
+<img src="https://i.imgur.com/d7EvAdA.png" title="Screen Skip">
+<img src="https://i.imgur.com/DKDUhiO.png" title="Screen Pass">
+<img src="https://i.imgur.com/OZruigs.png" title="Screen Fail">
+<img src="https://i.imgur.com/lCrmOxY.png" title="Screen Spinner">
+<img src="https://i.imgur.com/HfczSW8.png" title="Ranking Panel">
+<img src="https://i.imgur.com/NRrtTZB.png" title="Ranking Panel">
+</details>
+
+#### Download
+Source|Link|
+|---|---|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+
+___
+
 ## - 『 Radhe 』 -
+
+
+<p align="center"><img src="https://i.imgur.com/dIZ16wN.png" height="480"></p>
+
+<a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
+
+<details>
+<summary>Screenshots (click to expand)</summary>
+<img src="https://i.imgur.com/FYofVM4.png" title="Menu Background">
+<img src="https://i.imgur.com/r643eJo.png" title="Song Select">
+<img src="https://i.imgur.com/Zr8vdm8.png" title="Select Modes">
+<img src="https://i.imgur.com/F0QLKaG.png" title="Mod Icons">
+<img src="https://i.imgur.com/Y8h6vQg.png" title="Gameplay circles">
+<img src="https://i.imgur.com/wGkMQKn.png" title="Gameplay circles">
+<img src="https://i.imgur.com/RV1zxDf.png" title="Screen Pause">
+<img src="https://i.imgur.com/PkT5tsQ.png" title="Screen Fail">
+<img src="https://i.imgur.com/Xm2CQfw.png" title="Screen Skip">
+<img src="https://i.imgur.com/WqjN4ub.png" title="Screen Pass">
+<img src="https://i.imgur.com/JZwZE0U.png" title="Screen Fail">
+<img src="https://i.imgur.com/jNIJzc2.png" title="Ranking Panel">
+<img src="https://i.imgur.com/1czkSjD.png" title="Ranking Panel">
+</details>
+
+#### Download
+Source|Link|
+|---|---|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+
+___
+
+## - 『 Semiramis Skin 』 -
 
 
 <p align="center"><img src="https://i.imgur.com/o63ldJc.png" height="480"></p>
@@ -88,3 +151,35 @@ Source|Link|
 |MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
 
 ___
+
+## - 『 Houshou Marine 』 -
+
+
+<p align="center"><img src="https://i.imgur.com/o63ldJc.png" height="480"></p>
+
+<a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
+
+<details>
+<summary>Screenshots (click to expand)</summary>
+<img src="" title="Menu Background">
+<img src="" title="Song Select">
+<img src="" title="Select Modes">
+<img src="" title="Mod Icons">
+<img src="" title="Gameplay circles">
+<img src="" title="Gameplay circles">
+<img src="" title="Screen Pause">
+<img src="" title="Screen Fail">
+<img src="" title="Screen Skip">
+<img src="" title="Screen Pass">
+<img src="" title="Screen Fail">
+<img src="" title="Ranking Panel">
+<img src="" title="Ranking Panel">
+</details>
+
+#### Download
+Source|Link|
+|---|---|
+|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+
+___
+
