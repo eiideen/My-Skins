@@ -1,6 +1,6 @@
 ## - 『 ButterflyNino 『1.0』 』 -
 
-<p align="center"><img src="https://i.imgur.com/SZE2RVy.png" height="480"></p>
+<p align="center"><img src="https://i.imgur.com/SZE2RVy.png" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
@@ -30,7 +30,7 @@ ___
 
 ## - 『 MarineSummer 』 -
 
-<p align="center"><img src="https://i.imgur.com/o63ldJc.png" height="480"></p>
+<p align="center"><img src="https://i.imgur.com/o63ldJc.png" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
@@ -61,7 +61,7 @@ ___
 ## - 『 Bladeskie 』 -
 
 
-<p align="center"><img src="https://i.imgur.com/U8eHrq4.png" height="480"></p>
+<p align="center"><img src="https://i.imgur.com/U8eHrq4.png" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
@@ -93,25 +93,23 @@ ___
 ## - 『 Radhe 』 -
 
 
-<p align="center"><img src="https://i.imgur.com/dIZ16wN.png" height="480"></p>
+<p align="center"><img src="https://i.imgur.com/dIZ16wN.png" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="" title="Menu Background"height="480"></p>
-<p align="center"><img src="" title="Song Select"height="480"></p>
-<p align="center"><img src="" title="Select Modes"height="480"></p>
-<p align="center"><img src="" title="Mod Icons"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Screen Pause"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Screen Skip"height="480"></p>
-<p align="center"><img src="" title="Screen Pass"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/r643eJo.png" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/FYofVM4.png" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Zr8vdm8.png" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/F0QLKaG.png" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Y8h6vQg.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/wGkMQKn.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Xm2CQfw.png" title="Screen Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/WqjN4ub.png" title="Screen Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/JZwZE0U.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/jNIJzc2.png" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/1czkSjD.png" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
@@ -124,25 +122,26 @@ ___
 ## - 『 Semiramis Skin 』 -
 
 
-<p align="center"><img src="https://i.imgur.com/o63ldJc.png" height="480"></p>
+<p align="center"><img src="https://i.imgur.com/VfuIhJy.jpg" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="" title="Menu Background"height="480"></p>
-<p align="center"><img src="" title="Song Select"height="480"></p>
-<p align="center"><img src="" title="Select Modes"height="480"></p>
-<p align="center"><img src="" title="Mod Icons"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Screen Pause"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Screen Skip"height="480"></p>
-<p align="center"><img src="" title="Screen Pass"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/lzFUnCx.jpeg" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/6voMq2i.jpeg" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/VwqeJgd.jpeg" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/oeDN0wP.jpeg" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/R1rF4qf.jpeg" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/kC6aWy4.jpeg" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/quxNutf.jpeg" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/aURHm3k.jpeg" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/fKnyu21.jpeg" title="Screen Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/wCPXOa8.jpeg" title="Screen Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/jzwO7L0.jpeg" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/lCrmOxY.png" title="Screen Spinner"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/C3F5xG2.jpeg" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/zHH31kB.jpeg" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
@@ -155,13 +154,13 @@ ___
 ## - 『 Houshou Marine 』 -
 
 
-<p align="center"><img src="https://i.imgur.com/o63ldJc.png" height="480"></p>
+<p align="center"><img src="" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://imgur.com/a/ClhvqsT" title="Menu Background"height="480"></p>
 <p align="center"><img src="" title="Song Select"height="480"></p>
 <p align="center"><img src="" title="Select Modes"height="480"></p>
 <p align="center"><img src="" title="Mod Icons"height="480"></p>
