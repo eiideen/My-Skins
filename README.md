@@ -36,19 +36,19 @@ ___
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<img src="https://i.imgur.com/woV0jMa.png" title="Menu Background">
-<img src="https://i.imgur.com/WV2qDdN.png" title="Song Select">
-<img src="https://i.imgur.com/MYEIR3Y.png" title="Select Modes">
-<img src="https://i.imgur.com/rYdkcfA.png" title="Mod Icons">
-<img src="https://i.imgur.com/eqRnth1.png" title="Gameplay circles">
-<img src="https://i.imgur.com/AYMYIh5.png" title="Gameplay circles">
-<img src="https://i.imgur.com/Um6W2CC.png" title="Screen Pause">
-<img src="https://i.imgur.com/y7rjjH9.png" title="Screen Fail">
-<img src="https://i.imgur.com/4jd7W6f.png" title="Screen Skip">
-<img src="https://i.imgur.com/m3oLtTj.png" title="Screen Pass">
-<img src="https://i.imgur.com/SI4zsOK.png" title="Screen Fail">
-<img src="https://i.imgur.com/0I05f1x.png" title="Ranking Panel">
-<img src="https://i.imgur.com/nY6DXMP.png" title="Ranking Panel">
+<p align="center"><img src="https://i.imgur.com/woV0jMa.png" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/WV2qDdN.png" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/MYEIR3Y.png" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/rYdkcfA.png" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/eqRnth1.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/AYMYIh5.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Um6W2CC.png" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/y7rjjH9.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/4jd7W6f.png" title="Screen Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/m3oLtTj.png" title="Screen Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/SI4zsOK.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/0I05f1x.png" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/nY6DXMP.png" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
@@ -67,20 +67,20 @@ ___
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<img src="https://i.imgur.com/T0Im8a4.png" title="Menu Background">
-<img src="https://i.imgur.com/irhzJLX.png" title="Song Select">
-<img src="https://i.imgur.com/elfxWT5.png" title="Select Modes">
-<img src="https://i.imgur.com/XlQ9QEn.png" title="Mod Icons">
-<img src="https://i.imgur.com/fPtlnoP.png" title="Gameplay circles">
-<img src="https://i.imgur.com/w6BWQTV.png" title="Gameplay circles">
-<img src="https://i.imgur.com/iJuA0TA.png" title="Screen Pause">
-<img src="https://i.imgur.com/wSFyK3P.png" title="Screen Fail">
-<img src="https://i.imgur.com/d7EvAdA.png" title="Screen Skip">
-<img src="https://i.imgur.com/DKDUhiO.png" title="Screen Pass">
-<img src="https://i.imgur.com/OZruigs.png" title="Screen Fail">
-<img src="https://i.imgur.com/lCrmOxY.png" title="Screen Spinner">
-<img src="https://i.imgur.com/HfczSW8.png" title="Ranking Panel">
-<img src="https://i.imgur.com/NRrtTZB.png" title="Ranking Panel">
+<p align="center"><img src="https://i.imgur.com/T0Im8a4.png" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/irhzJLX.png" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/elfxWT5.png" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/XlQ9QEn.png" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/fPtlnoP.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/w6BWQTV.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/iJuA0TA.png" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/wSFyK3P.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/d7EvAdA.png" title="Screen Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/DKDUhiO.png" title="Screen Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/OZruigs.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/lCrmOxY.png" title="Screen Spinner"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/HfczSW8.png" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/NRrtTZB.png" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
@@ -99,19 +99,19 @@ ___
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<img src="https://i.imgur.com/FYofVM4.png" title="Menu Background">
-<img src="https://i.imgur.com/r643eJo.png" title="Song Select">
-<img src="https://i.imgur.com/Zr8vdm8.png" title="Select Modes">
-<img src="https://i.imgur.com/F0QLKaG.png" title="Mod Icons">
-<img src="https://i.imgur.com/Y8h6vQg.png" title="Gameplay circles">
-<img src="https://i.imgur.com/wGkMQKn.png" title="Gameplay circles">
-<img src="https://i.imgur.com/RV1zxDf.png" title="Screen Pause">
-<img src="https://i.imgur.com/PkT5tsQ.png" title="Screen Fail">
-<img src="https://i.imgur.com/Xm2CQfw.png" title="Screen Skip">
-<img src="https://i.imgur.com/WqjN4ub.png" title="Screen Pass">
-<img src="https://i.imgur.com/JZwZE0U.png" title="Screen Fail">
-<img src="https://i.imgur.com/jNIJzc2.png" title="Ranking Panel">
-<img src="https://i.imgur.com/1czkSjD.png" title="Ranking Panel">
+<p align="center"><img src="" title="Menu Background"height="480"></p>
+<p align="center"><img src="" title="Song Select"height="480"></p>
+<p align="center"><img src="" title="Select Modes"height="480"></p>
+<p align="center"><img src="" title="Mod Icons"height="480"></p>
+<p align="center"><img src="" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="" title="Screen Pause"height="480"></p>
+<p align="center"><img src="" title="Screen Fail"height="480"></p>
+<p align="center"><img src="" title="Screen Skip"height="480"></p>
+<p align="center"><img src="" title="Screen Pass"height="480"></p>
+<p align="center"><img src="" title="Screen Fail"height="480"></p>
+<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
@@ -130,19 +130,19 @@ ___
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<img src="" title="Menu Background">
-<img src="" title="Song Select">
-<img src="" title="Select Modes">
-<img src="" title="Mod Icons">
-<img src="" title="Gameplay circles">
-<img src="" title="Gameplay circles">
-<img src="" title="Screen Pause">
-<img src="" title="Screen Fail">
-<img src="" title="Screen Skip">
-<img src="" title="Screen Pass">
-<img src="" title="Screen Fail">
-<img src="" title="Ranking Panel">
-<img src="" title="Ranking Panel">
+<p align="center"><img src="" title="Menu Background"height="480"></p>
+<p align="center"><img src="" title="Song Select"height="480"></p>
+<p align="center"><img src="" title="Select Modes"height="480"></p>
+<p align="center"><img src="" title="Mod Icons"height="480"></p>
+<p align="center"><img src="" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="" title="Screen Pause"height="480"></p>
+<p align="center"><img src="" title="Screen Fail"height="480"></p>
+<p align="center"><img src="" title="Screen Skip"height="480"></p>
+<p align="center"><img src="" title="Screen Pass"height="480"></p>
+<p align="center"><img src="" title="Screen Fail"height="480"></p>
+<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
@@ -161,19 +161,19 @@ ___
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<img src="" title="Menu Background">
-<img src="" title="Song Select">
-<img src="" title="Select Modes">
-<img src="" title="Mod Icons">
-<img src="" title="Gameplay circles">
-<img src="" title="Gameplay circles">
-<img src="" title="Screen Pause">
-<img src="" title="Screen Fail">
-<img src="" title="Screen Skip">
-<img src="" title="Screen Pass">
-<img src="" title="Screen Fail">
-<img src="" title="Ranking Panel">
-<img src="" title="Ranking Panel">
+<p align="center"><img src="" title="Menu Background"height="480"></p>
+<p align="center"><img src="" title="Song Select"height="480"></p>
+<p align="center"><img src="" title="Select Modes"height="480"></p>
+<p align="center"><img src="" title="Mod Icons"height="480"></p>
+<p align="center"><img src="" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="" title="Screen Pause"height="480"></p>
+<p align="center"><img src="" title="Screen Fail"height="480"></p>
+<p align="center"><img src="" title="Screen Skip"height="480"></p>
+<p align="center"><img src="" title="Screen Pass"height="480"></p>
+<p align="center"><img src="" title="Screen Fail"height="480"></p>
+<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
