@@ -154,13 +154,13 @@ ___
 ## - 『 Houshou Marine 』 -
 
 
-<p align="center"><img src="" height="460"></p>
+<p align="center"><img src="https://i.imgur.com/U1MK3wA.jpg" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="https://imgur.com/a/ClhvqsT" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/f0XaiGS.jpg" title="Menu Background"height="480"></p>
 <p align="center"><img src="" title="Song Select"height="480"></p>
 <p align="center"><img src="" title="Select Modes"height="480"></p>
 <p align="center"><img src="" title="Mod Icons"height="480"></p>
