@@ -346,19 +346,18 @@ ___
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="g" title="Menu Background"height="480"></p>
-<p align="center"><img src="" title="Song Select"height="480"></p>
-<p align="center"><img src="" title="Select Modes"height="480"></p>
-<p align="center"><img src="" title="Mod Icons"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Screen Pause"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Screen Skip"height="480"></p>
-<p align="center"><img src="" title="Screen Pass"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/f0XaiGS.jpg" title="Menu Background"height="480"></p>
+<p align="center"><img src=https://i.imgur.com/J5MVimI.png"" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/5mkIy1e.png" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/gEPCAGE.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/1yHaNFv.png" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/NSorbEt.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/0vorkXA.png" title="Screen Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/A0Z9gK1.png" title="Screen Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/4IoywY8.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/niYkmTt.png" title="Screen Spinner"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/arVMNHt.png" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/ns31PgO.png" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
