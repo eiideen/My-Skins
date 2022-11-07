@@ -92,7 +92,7 @@ Source|Link|
 |Nino|[Go to GoogleDrive](https://drive.google.com/file/d/1uu3dajo5vpdX8QOf6rVSVz4TMRhcMQRw/view?usp=share_link)|
 |DT|[Go to GoogleDrive](https://drive.google.com/file/d/1QCnGqyEAK-uak_bENniI4YKYl9qSTCLT/view?usp=share_link)|
 |MEKA|[Go to GoogleDrive](https://drive.google.com/file/d/1zMfCixbzMiFBNSvO1eg07SHKMp3PUCCT/view?usp=share_link)|
-|LITE|[Go to GoogleDrive]([https://drive.google.com/file/d/1zMfCixbzMiFBNSvO1eg07SHKMp3PUCCT/view?usp=share_link)|
+|LITE|[Go to GoogleDrive](https://drive.google.com/file/d/1zMfCixbzMiFBNSvO1eg07SHKMp3PUCCT/view?usp=share_link)|
 
 ___
 
@@ -122,7 +122,8 @@ ___
 #### Download
 Source|Link|
 |---|---|
-|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+|ButterNino|[Go to GoogleDrive](https://drive.google.com/file/d/1vedHObcDVFX-ObyopIfkVlqu2cUwQIG3/view?usp=share_link)|
+|LITE|[Go to GoogleDrive](https://drive.google.com/file/d/1mAPOMps8pKosxApA0J7MGh0iQ7EfpDbS/view?usp=share_link)|
 
 ___
 
