@@ -13,19 +13,19 @@
 <p align="center"><img src="https://i.imgur.com/wENLsGQ.jpeg" title="Select Modes"height="480"></p>
 <p align="center"><img src="https://i.imgur.com/2kqDnjs.jpeg" title="Mod Icons"height="480"></p>
 <p align="center"><img src="https://i.imgur.com/M78NqH3.jpeg" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Screen Pause"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Screen Skip"height="480"></p>
-<p align="center"><img src="" title="Screen Pass"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Nmu6p5q.jpeg" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/nMxpyvV.jpeg" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/pk2SYKX.jpeg" title="Screen Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Txl7WfJ.jpeg" title="Screen Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/8M8agck.jpeg" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/I1vRKmf.jpeg" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/50TQMiQ.jpeg" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
 Source|Link|
 |---|---|
-|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+|Cold Front|Skin Private|
 
 ___
 
@@ -57,7 +57,7 @@ ___
 #### Download
 Source|Link|
 |---|---|
-|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+|Racing Miku|Skin Private|
 
 ___****
 
@@ -89,7 +89,10 @@ ___****
 #### Download
 Source|Link|
 |---|---|
-|MediaFire|[Go to MediaFire](https://www.mediafire.com/folder/5iehq0kyv20c1/ButterflyNino)|
+|Nino|[Go to GoogleDrive]([https://drive.google.com/file/d/1uu3dajo5vpdX8QOf6rVSVz4TMRhcMQRw/view?usp=share_link)|
+|DT|[Go to GoogleDrive]([https://drive.google.com/file/d/1QCnGqyEAK-uak_bENniI4YKYl9qSTCLT/view?usp=share_link)|
+|MEKA|[Go to GoogleDrive]([https://drive.google.com/file/d/1zMfCixbzMiFBNSvO1eg07SHKMp3PUCCT/view?usp=share_link)|
+|LITE|[Go to GoogleDrive]([|MEKA|[Go to GoogleDrive]([https://drive.google.com/file/d/1zMfCixbzMiFBNSvO1eg07SHKMp3PUCCT/view?usp=share_link)|)|
 
 ___
 
