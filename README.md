@@ -1,18 +1,18 @@
 ## - 『 Cold Front 』 -
 
 
-<p align="center"><img src="" height="460"></p>
+<p align="center"><img src="https://i.imgur.com/ywTE8BR.png" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="g" title="Menu Background"height="480"></p>
-<p align="center"><img src="" title="Song Select"height="480"></p>
-<p align="center"><img src="" title="Select Modes"height="480"></p>
-<p align="center"><img src="" title="Mod Icons"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/bycL6EJ.jpeg" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/l7ya2Ow.jpeg" title="Direct"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/DxKQ3pW.jpeg" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/wENLsGQ.jpeg" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/2kqDnjs.jpeg" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/M78NqH3.jpeg" title="Gameplay circles"height="480"></p>
 <p align="center"><img src="" title="Screen Pause"height="480"></p>
 <p align="center"><img src="" title="Screen Fail"height="480"></p>
 <p align="center"><img src="" title="Screen Skip"height="480"></p>
@@ -40,7 +40,7 @@ ___
 <summary>Screenshots (click to expand)</summary>
 <p align="center"><img src="https://i.imgur.com/6Brfz2w.png" title="Welcome"height="480"></p>
 <p align="center"><img src="https://i.imgur.com/o9zIUdM.png" title="Menu Background"height="480"></p>
-<p align="center"><img src="https://i.imgur.com/irM5B7J.png" title="Osu Multi"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/irM5B7J.png" title="Direct"height="480"></p>
 <p align="center"><img src="https://i.imgur.com/EfvBQvo.png" title="Song Select"height="480"></p>
 <p align="center"><img src="https://i.imgur.com/AR57Bfn.png" title="Select Modes"height="480"></p>
 <p align="center"><img src="https://i.imgur.com/XsZ0cMM.png" title="Mod Icons"height="480"></p>
