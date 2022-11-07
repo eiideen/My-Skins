@@ -125,7 +125,7 @@ ___****
 ## - 『 ButterflyNino 『2.0 』 -
 
 
-<p align="center"><img src="" height="460"></p>
+<p align="center"><img src="https://i.imgur.com/sIQAVax.jpg" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
