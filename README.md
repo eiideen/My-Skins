@@ -277,25 +277,25 @@ ___
 ## - 『 Semiramis Babylonia 』 -
 
 
-<p align="center"><img src="" height="460"></p>
+<p align="center"><img src="https://i.imgur.com/YJwNfGN.jpeg" height="460"></p>
 
 <a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
 <details>
 <summary>Screenshots (click to expand)</summary>
-<p align="center"><img src="g" title="Menu Background"height="480"></p>
-<p align="center"><img src="" title="Song Select"height="480"></p>
-<p align="center"><img src="" title="Select Modes"height="480"></p>
-<p align="center"><img src="" title="Mod Icons"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Gameplay circles"height="480"></p>
-<p align="center"><img src="" title="Screen Pause"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Screen Skip"height="480"></p>
-<p align="center"><img src="" title="Screen Pass"height="480"></p>
-<p align="center"><img src="" title="Screen Fail"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
-<p align="center"><img src="" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/4WfNWv8.png" title="Menu Background"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/weFX1d0.png" title="Song Select"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Y92Bvac.png" title="Select Modes"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/mK6Gmvp.png" title="Mod Icons"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/M7JtX8k.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/NH1fv9K.png" title="Gameplay circles"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/3qvAjiV.png" title="Screen Pause"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/7bBXhaJ.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/Tp4aW4Y.png" title="Screen Skip"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/WvjApks.png" title="Screen Pass"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/FG798Ze.png" title="Screen Fail"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/1XX7P0b.png" title="Ranking Panel"height="480"></p>
+<p align="center"><img src="https://i.imgur.com/9yWWMPg.png" title="Ranking Panel"height="480"></p>
 </details>
 
 #### Download
